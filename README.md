@@ -1,1 +1,1 @@
-# Repo de scripts aleatórios/teste CSharp
+# Repo de scripts aleatÃ³rios/teste CSharp
